@@ -2,7 +2,7 @@
 
 This project focuses on sentiment analysis of Zomato reviews using Natural Language Processing (NLP) techniques. The dataset used for analysis is sourced from Kaggle. Dataset link: [Zomato Reviews](https://www.kaggle.com/datasets/taaresh7/zomato-reviews).
 
-![Zomato](zomato.jpg)
+
 
 
 ## Overview
